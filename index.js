@@ -1,7 +1,7 @@
 CLASSES = {
-  0: 'Class0',
-  1: 'Class1',
-  2: 'Class2',
+  0: 'Alma',
+  1: 'Curl',
+  2: 'Lion',
 
 };
 
